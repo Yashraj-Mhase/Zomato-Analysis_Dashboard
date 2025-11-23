@@ -1,68 +1,56 @@
-🧠 Zomato Restaurant Insights Dashboard
-Welcome to the Zomato Restaurant Insights Dashboard, a Power BI project that explores restaurant data across multiple countries and cities. This dashboard provides interactive visualizations and key metrics to help understand restaurant distribution, ratings, costs, and customer engagement patterns.
+# 🧠 Zomato Restaurant Insights Dashboard
 
-📊 Project Overview
-This dashboard was built using Power BI, DAX, and Power Query, and analyzes data from 9,500+ restaurants listed on Zomato across 15 countries and 141 cities.
+Welcome to the **Zomato Restaurant Insights Dashboard**, a Power BI project that explores restaurant data across multiple countries and cities. This dashboard provides interactive visualizations and key metrics to help understand restaurant distribution, ratings, costs, and customer engagement patterns.
 
-🔍 Key Features
-🌍 Global Coverage Explore restaurant data across continents using map visuals and city-level breakdowns.
+---
 
-📈 Ratings & Votes Analysis
+## 📊 Project Overview
 
-Average rating: 2.89
+This dashboard was built using **Power BI**, **DAX**, and **Power Query**, and analyzes data from **9,500+ restaurants** listed on Zomato across **15 countries** and **141 cities**.
 
-Total votes: 1.49 million
+---
 
-Rating distribution visualized via donut charts.
+## 🔍 Key Features
 
-🏙️ City & Restaurant Insights
+### 🌍 Global Coverage  
+Explore restaurant data across continents using map visuals and city-level breakdowns.
 
-Top cities by restaurant count (e.g., New Delhi, Gurgaon, Noida).
+### 📈 Ratings & Votes Analysis  
+- **Average rating:** 2.89  
+- **Total votes:** 1.49 million  
+- Rating distribution visualized via donut charts.
 
-Top restaurants by vote count (e.g., Cafe Coffee Day, Domino’s, Subway).
+### 🏙️ City & Restaurant Insights  
+- Top cities by restaurant count (e.g., New Delhi, Gurgaon, Noida)  
+- Top restaurants by vote count (e.g., Cafe Coffee Day, Domino’s, Subway)
 
-📅 Opening Trends
+### 📅 Opening Trends  
+- Monthly and yearly restaurant openings visualized using treemaps and bar charts.
 
-Monthly and yearly restaurant openings visualized using treemaps and bar charts.
+### 💸 Cost Comparison  
+- Average cost for two across top cities and cuisines  
+- Price range distribution across restaurants
 
-💸 Cost Comparison
+### 🛎️ Service Availability  
+- Online delivery and table booking stats segmented by city and month
 
-Average cost for two across top cities and cuisines.
+### 🎛️ Interactive Filters  
+- Filter by **Month**, **City**, **Country**, and **Year of Opening** to explore trends dynamically
 
-Price range distribution across restaurants.
+---
 
-🛎️ Service Availability
+## 🛠️ Tools & Technologies
 
-Online delivery and table booking stats segmented by city and month.
+- **Power BI** – Dashboard creation and visualization  
+- **DAX** – Custom measures and calculated columns  
+- **Power Query** – Data transformation and modeling  
+- **Excel** – Source data preparation
 
-🎛️ Interactive Filters
+---
 
-Filter by Month, City, Country, and Year of Opening to explore trends dynamically.
+## 📌 Use Cases
 
-🛠️ Tools & Technologies
-Power BI – Dashboard creation and visualization
-
-DAX – Custom measures and calculated columns
-
-Power Query – Data transformation and modeling
-
-Excel – Source data preparation
-
-📌 Use Cases
-Market analysis for restaurant expansion
-
-Customer behavior and service preference tracking
-
-Cost benchmarking across regions and cuisines
-
-Strategic planning for food delivery platforms
-
-📁 Repository Structure
-Code
-📂 Zomato-Restaurant-Insights-Dashboard
-├── 📊 Power BI Dashboard (.pbix)
-├── 📄 README.md
-├── 📁 Dataset (Excel)
-└── 📸 Screenshots & Visuals
-📬 Contact
-For questions, collaborations, or feedback, feel free to reach out via LinkedIn or raise an issue in this repository.
+- Market analysis for restaurant expansion  
+- Customer behavior and service preference tracking  
+- Cost benchmarking across regions and cuisines  
+- Strategic planning for food delivery platforms
